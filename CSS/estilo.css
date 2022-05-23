@@ -1,3 +1,5 @@
+/*CSS Página Principal - Conf Bs As*/
+
 .btn-bg-foto {
     background-color: #28A644;
 }
@@ -45,3 +47,54 @@
     border-bottom-style: dotted;
     border-width: 2px;
 }
+
+/*CSS Página 5 - Comprar tkt */
+
+.border-uno {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #007BFF;
+}
+
+.border-dos {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #17A2B8;
+}
+
+.border-tres {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFC107;
+}
+
+.interlinea {
+    line-height: 54px;
+}
+
+.fuente {
+    font-weight: bold;
+}
+
+.max-ancho-card {
+    max-width: 18rem;
+}
+
+.form-resumen-bg-txt {
+    background-color: #CCE5FF;
+    color: #0064B8;
+    padding: 15px 15px;
+    border-color: #B8DAFF;
+    font-size: 24px;
+}
+
+.btn-bd-primary {
+    background-color: #97C93E;
+  }
+
+.footer-bg-tkt {
+    background-color: #1E4C66; 
+}
+
+
+
